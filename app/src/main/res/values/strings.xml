@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task 1</string>
+    <string name="count_view">counter</string>
+    <string name="increment_button">INCREMENT</string>
+    <string name="reset_button">RESET</string>
+    <string name="about">About</string>
+    <string name="about_page_line1">My submission for the first task of Delta AppDev inductions.\n\nWould be grateful for feedback.</string>
+
+</resources>
